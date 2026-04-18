@@ -1,4 +1,10 @@
 ## Bem-Vindo ao meu perfil do GitHub! 🧙‍♂️
+***
+Estou com o foco de Crescer profissionalmente cada dia mais!
+
+Dê uma olhada no meu perfil !
+
+***
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
