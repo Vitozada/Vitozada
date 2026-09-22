@@ -82,7 +82,7 @@ Meu objetivo é continuar evoluindo tecnicamente, criando projetos e transforman
 
 ## 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlserver,mongodb" />
 
 <br><br>
 
