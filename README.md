@@ -128,9 +128,7 @@ Meu objetivo é continuar evoluindo tecnicamente, criando projetos e transforman
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitozada&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitozada&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vitozada&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
 </div>
 
@@ -146,40 +144,30 @@ Meu objetivo é continuar evoluindo tecnicamente, criando projetos e transforman
 
 ---
 
-# 🐍 Contributions
+# 💡 Filosofia
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vitozada/Vitozada/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-# 💡 My Philosophy
-
-<div align="center">
-
-> **"Quality is not just about finding bugs. It's about helping build better software."**
+> **"Qualidade não é apenas encontrar bugs. É ajudar a construir softwares melhores."**
 
 <br>
 
-**Learn • Build • Test • Improve**
+**Aprender • Desenvolver • Testar • Melhorar**
 
 </div>
 
 ---
 
-# 📫 Connect With Me
+# 📫 Entre em contato
 
 <div align="center">
 
 <a href="https://github.com/Vitozada">
-<img src="https://img.shields.io/badge/GitHub-Vitozada-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vitor-gabriel-melo-silva-038a19337/">
-<img src="https://img.shields.io/badge/LinkedIn-Vitor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
